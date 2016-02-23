@@ -1,0 +1,17 @@
+﻿Build started 12/17/2014 2:22:41 PM.
+     1>Project "\\home\tristanolivermall212\Visual Studio 2010\Projects\Black_Jack_2ndIteration\Black_Jack_2ndIteration\Black_Jack_2ndIteration.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Black_Jack_2ndIteration.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Black_Jack_2ndIteration.vcxproj -> \\home\tristanolivermall212\Visual Studio 2010\Projects\Black_Jack_2ndIteration\Debug\Black_Jack_2ndIteration.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Black_Jack_2ndIteration.unsuccessfulbuild".
+         Touching "Debug\Black_Jack_2ndIteration.lastbuildstate".
+     1>Done Building Project "\\home\tristanolivermall212\Visual Studio 2010\Projects\Black_Jack_2ndIteration\Black_Jack_2ndIteration\Black_Jack_2ndIteration.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.76
